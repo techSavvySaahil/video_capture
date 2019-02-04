@@ -1,0 +1,24 @@
+.recorder-wrap {
+  display: flex;
+  height: 55vh;
+  width: 100%;
+  justify-content: center;
+}
+.recorder-wrap div.live {
+  margin-right:5%;
+}
+.recorder-wrap div.recorded {
+  margin-left:5%;
+}
+.recorder-wrap video {
+  height:36vh;
+  width:48vh;
+}
+.record-btn-wrap {
+  display: flex;
+  justify-content: center;
+}
+button[disabled] {
+  color:lightgray;
+  cursor: not-allowed;
+}
