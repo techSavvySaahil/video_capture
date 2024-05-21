@@ -6,7 +6,7 @@
 
 ### `View in list/Delete recorded videos`
 
-
+Check it live here, https://techsavvysaahil.github.io/video_capture/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
